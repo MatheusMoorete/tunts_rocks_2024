@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "desafiotuntsrocks2024-412918",
+  "private_key_id": "440650686942b09eaa1d5887a30493793ef1e27e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDifZE5N/jRee6I\nvASsG44w6Fo3RqYgKyxQtk/mU39HUEL9tUBVAhKwmIMsoECRzsU10tMGvOuSA2ej\nqdWZ6WyjYMBoQn6N+JPGQvRmx3f2TS5TURpD8+iep6X19lsJhYsagUy4PdODY04J\naSrTrlCkI+u02bwigUNOwIu90O++uzyxVK7g79Zf7dMjS2yu/QaKCPvmAsuW03Sh\ny99PQZFbWQIDDRFgcQMYoHwf1SlGqD+McIkKwm1NvJVplAZilRdotonSQDMQH/D6\nEl4muRVSc0DnH2ELub7pYfNWk2trUb6XXoMqg2V5BfbAEcVwNq/Je6AgsCXKD8aG\ntlXxMJt3AgMBAAECggEATE9kW7P5GJMNhHJc3KQYH3BZ3R/nnxUMxFD40LC3RI7N\nU2/7MekV5Pwtzh5cQwQ4u+7BfRawBC0zgRgayNW17cIOcdJdk3X6TCWI9Qwl5g2R\nGy9LOzP132a66wlLGQUungqMj9L87drKky8k59dmgjc8Fl36HmIRDHqhWp4H+Om4\nu0FELbZmuQSXTEi5kvCDKIXMRsYBiXfVrBRdwpftrEubRA9jYdLTGdeEYBw0sY6N\nok60th2ZsxlflCmbEiOGOo1JnNx/WFABr8/NOMEHCeeQrRAQLrBPfNvmCouYHhTB\nGzp1A383HFs92We4i2UgXSHlCCN/mGH3y7AOSNVtwQKBgQD0/6bXRkNVjMwwdEe7\nTWdnSTXWBGPaSITa/Fhbrp4MWmI4B0aGMv0dT/xzDca5KZR384GL9NYndKHpPoi5\nSAvsPz9PHu17Ocn1HcwgFr4nSdysrHOHh1FeVl+5COvofwwXj1g9m0gwvVJmf5PY\nx4Lr3ZiuaOP5r+UznYSrR9klFwKBgQDsqShh4dowWSCif+W/gZT+sSUVM/etUKf/\nVd8sx5vUcOjJ9tQ+BOhAq6NHgb4/KvawXYMTDscSJMxoR+v+3GMFaX3b5bJFVCV5\n0+7QaiE27H1eHTzrJHnV1Ku6fU7/YoR594ghM8cWmDh+hIdQ35cqoHd1Eu3mwA2/\n+sKZex74oQKBgCt79LDg17KnetZezRyBcIj0hYmm3dIwbOQxRb2AEK1AnY40PGA1\nTJeXSsdg+pSCvMdNgQDGQ/xcxyAO6VV5ZCRaVXJFmwD0ENRgpYpMfxOaGIDNWvQD\nIH4N9o9w9e4eHpdP6emFVhrQf3+RxTwErUgP3LmYBF6cyaGPo6yC5BehAoGBAOsL\n7qGYsR2Hx9Pc9xBG4PY8djoizQEDtHbykJ9m+Kv8IBhG3/Fg6lMgpSBmCc+vGid8\nGKya5rhsd9+yXv9XX7mGVoxKC86zjiz7gprYbXihVLpei5x3M9JeUNj9j7Ix5KVG\nZZukUz1rneB6O/LkvryFd199l26wnHdp1FCfadlBAoGBAIey76nkG2rqaMaKsWVc\nE1ecRR26pVKJgLxSkOqNwZEA80ldbLcJTyFsXwpA01Q/YN9aFWIeUkIhVr1x04X6\n0bkaB/4wrRSF2SUidBMCL1uS0w72/aqryalm3p5Dw6puIe3f0tBXcFSqDPlqs+Yg\nmgzscAiICh6HwZ597xAe2UKg\n-----END PRIVATE KEY-----\n",
+  "client_email": "projeto@desafiotuntsrocks2024-412918.iam.gserviceaccount.com",
+  "client_id": "114174734466640159809",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projeto%40desafiotuntsrocks2024-412918.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
